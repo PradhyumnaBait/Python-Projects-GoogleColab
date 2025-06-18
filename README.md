@@ -19,7 +19,7 @@ This repo contains Python code snippets, exercises, and projects that I'm curren
 1. Click the badge below to open notebooks directly in **Google Colab**:
    > 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PradhyumnaBait/Python-Projetc-GoogleColab/blob/main/notebooks/PYthonChallenge.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PradhyumnaBait/Python-Projects-GoogleColab/blob/main/PYthonChallenge.ipynb)
 
 2. Or, clone the repo and open notebooks locally using **Jupyter Lab** or **VS Code**.
 
